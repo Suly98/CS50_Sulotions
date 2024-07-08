@@ -1,8 +1,8 @@
 # CS50 Solutions
-In this repository, I will explain every problem that I have solved in CS50 with my approach.
+I will upload every problem I solved in CS50 in this repository with my approach.
 
 ## What is CS50?
-It is an online introductory course that is taught by The University of Harvard!
+It is an online introductory course that The University of Harvard teaches!
 
 
 
