@@ -1,11 +1,11 @@
-sort1 uses: TODO
+sort1 uses: Bubble sort
 
-How do you know?: TODO
+How do you know?: it takes too much time and it is longer than selection sort and merging sort which makes it the last one!
 
-sort2 uses: TODO
+sort2 uses: Merge sort
 
-How do you know?: TODO
+How do you know?: it took less significantly less time than the other two in sorting large file.
 
-sort3 uses: TODO
+sort3 uses: Selection sort
 
-How do you know?: TODO
+How do you know?: It takes more time than merge sort and less time than bubble sort which makes it fit for being selection sort
